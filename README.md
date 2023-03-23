@@ -1,5 +1,5 @@
 <h1>Network File Shares and Permissions</h1>
-Welcome back! In this tutorial, We will create folders in DC-1 from the previous Tutorial. <br />
+ In this tutorial, We will create folders in DC-1 from the previous Tutorial. <br />
 
 <h2>Environments and Technologies Used</h2>
 
